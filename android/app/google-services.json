@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480670698700",
+    "firebase_url": "https://futsal-project-me.firebaseio.com",
+    "project_id": "futsal-project-me",
+    "storage_bucket": "futsal-project-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480670698700:android:dccc85d8f870764f1e0669",
+        "android_client_info": {
+          "package_name": "com.lethal.futsal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480670698700-kp1cup88eusoppjo6phncu4abks9phar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCgzjm6mDGhtTF8SIVdm2hOdoN1vCiU6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480670698700-kp1cup88eusoppjo6phncu4abks9phar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
